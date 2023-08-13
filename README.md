@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Java,Javascript**
 
-- My video projects [harryeditsvp.framer.ai](harryeditsvp.framer.ai)
+- My video projects https://harryeditsvp.framer.ai
 
 - 📫 How to reach me, Click here or go to social section **harsimran8harrys@gmail.com**
 
